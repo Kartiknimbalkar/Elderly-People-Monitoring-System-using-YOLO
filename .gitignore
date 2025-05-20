@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data & Weights
+*.h5
+*.pt
+*.mp4
+*.avi
+*.csv
+*.npy
+*.log
+
+# Datasets and Outputs
+fall_dataset/
+runs/
+Results/
+models/
+videos/
+
+# IDEs and OS files
+.vscode/
+.DS_Store
+*.swp
